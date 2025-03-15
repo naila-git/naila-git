@@ -50,7 +50,7 @@ fields_of_interest:
 
 
 <a href="https://github.com/naila-git/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=naila-git&hide=stars,contribs&hide=C&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=naila-git&hide=stars,contribs&theme=tokyonight" />
 </a>
 <a href="https://github.com/naila-git/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naila-git&layout=compact&langs_count=8&card_width=320&hide=C" />
