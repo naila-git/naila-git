@@ -49,5 +49,12 @@ fields_of_interest:
 </p>
 
 [![Naila's GitHub stats](https://github-readme-stats.vercel.app/api?username=naila-git&hide=stars,contribs&show_icons=true&theme=tokyonight)](https://github.com/naila-git/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naila-git&size_weight=0.5&count_weight=0.5&layout=donut-vertical)](https://github.com/naila-git/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naila-git&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/naila-git/github-readme-stats)
+
+<a href="https://github.com/naila-git/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=naila-git" />
+</a>
+<a href="https://github.com/naila-git/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naila-git&layout=compact&langs_count=8&card_width=320" />
+</a>
 
