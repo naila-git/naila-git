@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Hi%20%I'm%20%Naila!&fontSize=50&animation=blink%fontAlign=50&Desc&descSize=30" />
+-->
+
 
 ```yaml
 name: Naila Imran 
