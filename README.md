@@ -48,4 +48,6 @@ fields_of_interest:
   
 </p>
 
+[![Naila's GitHub stats](https://github-readme-stats.vercel.app/api?username=naila-git)](https://github.com/naila-git/github-readme-stats)
+
 
