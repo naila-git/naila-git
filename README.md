@@ -23,7 +23,7 @@ located_in: Dallas, Texas
 
 education:
 [
-  "Bachelor's in Computer Science
+  "BS in Computer Science
 ]
 
 fields_of_interest: 
